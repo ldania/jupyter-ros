@@ -2,6 +2,24 @@
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 0.6.0
+
+([Full Changelog](https://github.com/dobots/jupyter-ros/compare/0.5.0...d563833adf523fe523d2a72a440807efb17519bf))
+
+### Merged PRs
+
+- Ros2 keyboard [#5](https://github.com/dobots/jupyter-ros/pull/5) ([@ldania](https://github.com/ldania))
+- Ros2 scalable [#3](https://github.com/dobots/jupyter-ros/pull/3) ([@ldania](https://github.com/ldania))
+- Ros2 [#2](https://github.com/dobots/jupyter-ros/pull/2) ([@ldania](https://github.com/ldania))
+
+### Contributors to this release
+
+([GitHub contributors page for this release](https://github.com/dobots/jupyter-ros/graphs/contributors?from=2021-04-20&to=2022-10-14&type=c))
+
+[@ldania](https://github.com/search?q=repo%3Adobots%2Fjupyter-ros+involves%3Aldania+updated%3A2021-04-20..2022-10-14&type=Issues)
+
+<!-- <END NEW CHANGELOG ENTRY> -->
+
 ## 0.6.0a0
 
 ([Full Changelog](https://github.com/RoboStack/jupyter-ros/compare/0.5.0...1f6c46c9d24768a30817996445140d8ce956106d))
@@ -67,7 +85,5 @@
 ([GitHub contributors page for this release](https://github.com/RoboStack/jupyter-ros/graphs/contributors?from=2021-04-20&to=2022-08-11&type=c))
 
 [@dependabot](https://github.com/search?q=repo%3ARoboStack%2Fjupyter-ros+involves%3Adependabot+updated%3A2021-04-20..2022-08-11&type=Issues) | [@hbcarlos](https://github.com/search?q=repo%3ARoboStack%2Fjupyter-ros+involves%3Ahbcarlos+updated%3A2021-04-20..2022-08-11&type=Issues) | [@ihuicatl](https://github.com/search?q=repo%3ARoboStack%2Fjupyter-ros+involves%3Aihuicatl+updated%3A2021-04-20..2022-08-11&type=Issues) | [@ldania](https://github.com/search?q=repo%3ARoboStack%2Fjupyter-ros+involves%3Aldania+updated%3A2021-04-20..2022-08-11&type=Issues) | [@Tobias-Fischer](https://github.com/search?q=repo%3ARoboStack%2Fjupyter-ros+involves%3ATobias-Fischer+updated%3A2021-04-20..2022-08-11&type=Issues) | [@wolfv](https://github.com/search?q=repo%3ARoboStack%2Fjupyter-ros+involves%3Awolfv+updated%3A2021-04-20..2022-08-11&type=Issues)
-
-<!-- <END NEW CHANGELOG ENTRY> -->
 
 ## 0.5.0
