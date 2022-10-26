@@ -2,6 +2,22 @@
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 0.6.1
+
+([Full Changelog](https://github.com/dobots/jupyter-ros/compare/v0.6.0...f7a396f31b06130bc75e77d2dad486333f3ccbd4))
+
+### Merged PRs
+
+- Corrected the Publisher and Subcriber [#7](https://github.com/dobots/jupyter-ros/pull/7) ([@ldania](https://github.com/ldania))
+
+### Contributors to this release
+
+([GitHub contributors page for this release](https://github.com/dobots/jupyter-ros/graphs/contributors?from=2022-10-14&to=2022-10-26&type=c))
+
+[@ldania](https://github.com/search?q=repo%3Adobots%2Fjupyter-ros+involves%3Aldania+updated%3A2022-10-14..2022-10-26&type=Issues)
+
+<!-- <END NEW CHANGELOG ENTRY> -->
+
 ## 0.6.0
 
 ([Full Changelog](https://github.com/dobots/jupyter-ros/compare/0.5.0...d563833adf523fe523d2a72a440807efb17519bf))
@@ -17,8 +33,6 @@
 ([GitHub contributors page for this release](https://github.com/dobots/jupyter-ros/graphs/contributors?from=2021-04-20&to=2022-10-14&type=c))
 
 [@ldania](https://github.com/search?q=repo%3Adobots%2Fjupyter-ros+involves%3Aldania+updated%3A2021-04-20..2022-10-14&type=Issues)
-
-<!-- <END NEW CHANGELOG ENTRY> -->
 
 ## 0.6.0a0
 
