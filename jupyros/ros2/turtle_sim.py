@@ -66,9 +66,13 @@ class TurtleSim:
                                                self.turtles[name].pose["y"],
                                                new_poses[name]["x"],
                                                new_poses[name]["y"])
-
                     # Update
-                    self.turtles[name].pose = new_poses[name]
+                    self.turtles[name].pose["x"] = new_poses[name]["x"]
+                    self.turtles[name].pose["y"] = new_poses[name]["y"]
+                    self.turtles[name].pose["theta"] = new_poses[name]["theta"]
+                    
+
+                    
                     self.draw_turtle(name)
 
     def draw_turtle(self, name="turtle1", n=2):
